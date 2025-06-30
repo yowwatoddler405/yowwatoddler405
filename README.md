@@ -2,9 +2,9 @@
   Hi 👋, I'm Yuda Aldiansyah
 </h1>
 <h3 align="center">I'm a website developer currently focusing on expanding my knowledge in web development and cybersecurity, especially penetration testing.</h3>
-<h1>
+
 <div class="tenor-gif-embed" data-postid="14997313" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/anime-demon-slayer-inosuke-kimetsu-no-yaiba-run-gif-14997313">Anime Demon Slayer Sticker</a>from <a href="https://tenor.com/search/anime-stickers">Anime Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-</h1>
+
 
 
 
