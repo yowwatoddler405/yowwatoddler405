@@ -2,7 +2,10 @@
   Hi 👋, I'm Yuda Aldiansyah
 </h1>
 <h3 align="center">I'm a website developer currently focusing on expanding my knowledge in web development and cybersecurity, especially penetration testing.</h3>
-<img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="60" alt="Dragon" />
+<h1 align="center">
+  <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="60" alt="Dragon" />
+</h1>
+
 
 
 <p align="center">
