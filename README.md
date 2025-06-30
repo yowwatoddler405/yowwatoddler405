@@ -5,7 +5,7 @@
 <div style="display: flex; gap: 10px; align-items: center;">
   <img src="https://media.tenor.com/dX7AKEGu6mQAAAAj/tanjirou-demon-slayer.gif" width="144" height="144" alt="a pixel art of a man with purple eyes" fetchpriority="high" style="max-width: 272px; background-color: unset;">
   <img src="https://media.tenor.com/L1FRa5-vuYcAAAAi/anime-demon-slayer.gif" width="144" height="144" alt="a pixel art drawing of a cat with blue eyes and pink ears">
- <img src="https://media.tenor.com/jve_fkSYDscAAAAi/anime-nezuko.gif" width="301.17269076305223" height="344" alt="a pixel art of a girl with a beard and a pink dress" fetchpriority="high" style="max-width: 360px; background-color: unset;">
+ <img src="https://media.tenor.com/jve_fkSYDscAAAAi/anime-nezuko.gif" width="144" height="144" alt="a pixel art of a girl with a beard and a pink dress" fetchpriority="high" style="max-width: 360px; background-color: unset;">
 
 ---
 
