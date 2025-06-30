@@ -45,7 +45,7 @@
 ### ⏱ Coding Stats from CodeTime
 
 <p align="center">
-<img href="https://codetime.dev" alt="CodeTime Badge" src="https://img.shields.io/endpoint?style=social&color=&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D32809">
+<img href="https://codetime.dev" alt="CodeTime Badge" src="https://img.shields.io/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D33499">
 </p>
 
 🔗 Get your own: [https://codetime.dev](https://codetime.dev)
