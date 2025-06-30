@@ -1,10 +1,10 @@
 <h1 align="center">
-  <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="60" alt="Dragon" />
   Hi 👋, I'm Yuda Aldiansyah
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXU5aWtoN2s0d2k2MGg2dWlsY2lnNzBmc3FmcWduOWQ3aXNjaDV0bSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/oXWrJtMZyRJmm/giphy.gif" width="60" alt="Swordman" />
 </h1>
-
 <h3 align="center">I'm a website developer currently focusing on expanding my knowledge in web development and cybersecurity, especially penetration testing.</h3>
+<img src="https://media.tenor.com/qAO-C9TZxy0AAAAi/dragon-fire.gif" width="60" />
+<img src="https://raw.githubusercontent.com/YudaAldiansyah/portfolio/main/assets/dragon.gif" width="60" />
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=YudaAldiansyah&label=Profile%20views&color=0e75b6&style=flat" alt="YudaAldiansyah" />
