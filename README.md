@@ -2,8 +2,7 @@
   Hi 👋, I'm Yuda Aldiansyah
 </h1>
 <h3 align="center">I'm a website developer currently focusing on expanding my knowledge in web development and cybersecurity, especially penetration testing.</h3>
-<img src="https://media.tenor.com/qAO-C9TZxy0AAAAi/dragon-fire.gif" width="60" />
-<img src="https://raw.githubusercontent.com/YudaAldiansyah/portfolio/main/assets/dragon.gif" width="60" />
+<img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="60" alt="Dragon" />
 
 
 <p align="center">
