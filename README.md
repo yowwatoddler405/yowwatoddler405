@@ -2,8 +2,7 @@
   Hi 👋, I'm Yuda Aldiansyah
 </h1>
 <h3 align="center">I'm a website developer currently focusing on expanding my knowledge in web development and cybersecurity, especially penetration testing.</h3>
-<img src="https://media.tenor.com/JuKxTboK0i4AAAAC/anime-demon-slayer.gif" width="100" alt="Inosuke Run" />
-
+<img src="https://media.tenor.com/L1FRa5-vuYcAAAAi/anime-demon-slayer.gif" width="301.17269076305223" height="344" alt="a pixel art drawing of a cat with blue eyes and pink ears" fetchpriority="high" style="max-width: 360px; background-color: unset;">
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=YudaAldiansyah&label=Profile%20views&color=0e75b6&style=flat" alt="YudaAldiansyah" />
