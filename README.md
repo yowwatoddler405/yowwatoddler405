@@ -50,6 +50,17 @@
 
 🔗 Get your own: [https://codetime.dev](https://codetime.dev)
 
+
+---
+
+
+### 🐍 My Contributions Snake
+
+<p align="center">
+  <img src="https://github.com/USERNAME/USERNAME/raw/output/github-contribution-grid-snake.svg" alt="snake gif" />
+</p>
+
+
 ---
 
 ### 🔥 GitHub Stats
