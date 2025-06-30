@@ -66,7 +66,7 @@
 ### 🎧 Now Playing on Spotify
 
 <p align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=1d501d36c6d6446089320dbdbac9a4be&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true" alt="Spotify Now Playing" />
+  <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31tnk24up6afjc6beogtjkacaxgm&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true" alt="Spotify Now Playing" />
 </p>
 
 
@@ -76,3 +76,4 @@
 ### 📌 Fun Fact
 
 > I like guitar and violin, I also like doing penetration testing and I like coding, and I like coffee.
+
