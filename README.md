@@ -66,7 +66,7 @@
 ### 🎧 Now Playing on Spotify
 
 <p align="center">
-<img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=1d501d36c6d6446089320dbdbac9a4be" />
+[![Spotify Now Playing](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31tnk24up6afjc6beogtjkacaxgm&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true)](https://open.spotify.com/user/31tnk24up6afjc6beogtjkacaxgm)
 
 </p>
 
