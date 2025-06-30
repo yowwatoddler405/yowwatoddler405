@@ -7,6 +7,10 @@
   <img src="https://media.tenor.com/L1FRa5-vuYcAAAAi/anime-demon-slayer.gif" width="144" height="144" alt="a pixel art drawing of a cat with blue eyes and pink ears">
   <img src="https://media.tenor.com/XU5qZNJA2JIAAAAi/zenitsu-pixel-art.gif" width="185" height="185" alt="a pixel art drawing of a boy with a sword">
 </div>
+
+---
+
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=YudaAldiansyah&label=Profile%20views&color=0e75b6&style=flat" alt="YudaAldiansyah" />
 </p>
