@@ -3,6 +3,7 @@
 </h1>
 <h3 align="center">I'm a website developer currently focusing on expanding my knowledge in web development and cybersecurity, especially penetration testing.</h3>
 <div style="display: flex; gap: 10px; align-items: center;">
+  <img src="https://media.tenor.com/aPAkmNeymxAAAAAi/thats-the-best-part-persona5.gif" width="144" height="131.40562248995982" alt="a black and white arrow with the words that 's the best part written on it" fetchpriority="high" style="max-width: 360px; background-color: unset;">
   <img src="https://media.tenor.com/dX7AKEGu6mQAAAAj/tanjirou-demon-slayer.gif" width="144" height="144" alt="a pixel art of a man with purple eyes" fetchpriority="high" style="max-width: 272px; background-color: unset;">
   <img src="https://media.tenor.com/L1FRa5-vuYcAAAAi/anime-demon-slayer.gif" width="144" height="144" alt="a pixel art drawing of a cat with blue eyes and pink ears">
  <img src="https://media.tenor.com/jve_fkSYDscAAAAi/anime-nezuko.gif" width="144" height="144" alt="a pixel art of a girl with a beard and a pink dress" fetchpriority="high" style="max-width: 360px; background-color: unset;">
