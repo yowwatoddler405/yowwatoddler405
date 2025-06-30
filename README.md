@@ -3,6 +3,7 @@
 </h1>
 <h3 align="center">I'm a website developer currently focusing on expanding my knowledge in web development and cybersecurity, especially penetration testing.</h3>
 <div style="display: flex; gap: 10px; align-items: center;">
+  <img src="https://media.tenor.com/QJSCcNyWlp4AAAAi/tanjiro-nezuko-and-zenitsu.gif" width="194" height="142" alt="a pixel art drawing of a boy running" fetchpriority="high" style="max-width: 358px; background-color: unset;">
   <img src="https://media.tenor.com/L1FRa5-vuYcAAAAi/anime-demon-slayer.gif" width="144" height="144" alt="a pixel art drawing of a cat with blue eyes and pink ears">
   <img src="https://media.tenor.com/XU5qZNJA2JIAAAAi/zenitsu-pixel-art.gif" width="185" height="185" alt="a pixel art drawing of a boy with a sword">
 </div>
